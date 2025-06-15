@@ -1,5 +1,3 @@
-# sentiment-analysis-rnn
-
 # Sentiment Analysis using RNN
 
 This project uses a Keras-based text classification models for analyzing sentiment in twitter data
